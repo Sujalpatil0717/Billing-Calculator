@@ -1,0 +1,5 @@
+=== BILL REPORT ===
+ID: 1 | Item: Pen | Qty: 10 | Price: ₹10.0 | Total: ₹100.0 | Date: 2025-07-21 23:32:47
+ID: 2 | Item: Pen | Qty: 5 | Price: ₹10.0 | Total: ₹50.0 | Date: 2025-07-21 23:35:23
+
+--- End of Report ---
